@@ -47,7 +47,6 @@ terdapat navbar  untuk memudahkan apabila ingin pindah ke halaman lain.
 ## Catatan
 
 Project ini hanya **simulasi frontend** — belum terhubung dengan backend atau database.
-Kelas backend memiliki tugas untuk membuat **API RESTful** sesuai studi kasus yang sama.
 
 ---
 
